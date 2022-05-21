@@ -456,9 +456,9 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
+  *≻* Sewa Bot 5k (1 minggu)
+  *≻* Sewa Bot 7k (1 bulan)
+  *≻* Sewa Bot 13k (Permanen)
 
   *JADI BOT* 
   *≻* Jadi Bot 15k Tidak Owner (1 minggu)
