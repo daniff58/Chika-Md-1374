@@ -22,12 +22,12 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['62895326739863','62895326739863','62895326739863'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6282232572770','6282232572770','6282232572770'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['62895326739863'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '62895326739863' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6282232572770' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'EROZE' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Mochaa aja' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Eroze-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'ErozeBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
